@@ -28,5 +28,5 @@ O projeto utiliza HTML, CSS e JavaScript puro, portanto não é necessária a in
 | Mário Henrique Oliveira de Souza | 01353664 | Scrum Master  |
 | Jonatan Martins                  | 01929831 | Desenvolvedor |
 | Diego Teixeira da Silva          | 01938580 | Documentador  |
-| Cauã Henrique                    | 01938975 | Testador      |
+| Cauã Henrique                    | 01938976 | Testador      |
 
