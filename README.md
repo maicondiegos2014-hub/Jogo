@@ -22,11 +22,11 @@ O objetivo do projeto é aplicar conhecimentos de HTML, CSS e JavaScript no dese
 
 O projeto utiliza HTML, CSS e JavaScript puro, portanto não é necessária a instalação de dependências.
 ## Integrantes
-
-| Nome                          | Matrícula| Papel         |
-|-------------------------------|----------|---------------| 
-| Mário                         | 00000000 | Scrum Master  |
-| Jonatan Martins               | 01929831 | Desenvolvedor |
-| Diego Teixeira da Silva       | 01938580 | Documentador  |
-| Cauã Henrique                 | 01938975 | Testador      |
+ 
+| Nome                             | Matrícula| Papel         |
+|----------------------------------|----------|---------------| 
+| Mário Henrique Oliveira de Souza | 01353664 | Scrum Master  |
+| Jonatan Martins                  | 01929831 | Desenvolvedor |
+| Diego Teixeira da Silva          | 01938580 | Documentador  |
+| Cauã Henrique                    | 01938975 | Testador      |
 
